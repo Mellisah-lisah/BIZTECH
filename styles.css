@@ -1,7 +1,101 @@
-body{
-    margin: 0em;
-    padding: 0;
+.navbar>ul{
+    list-style-type: none;
+    margin: 50px;
+    padding: 30px;
     overflow: hidden;
-    background-color: blue;
+    background-color:black;
+    font-size: xx-large;
+
+
+}
+body{
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+    background-color: rgb(146, 126, 126);
+}
+
+
     
+
+li>a{
+    display: inline-flex;
+    width: 100px;
+    padding:14px 16px;
+    color: goldenrod;
+    text-align: center;
+    text-decoration: none;
+
+}
+ul>li{
+    float: left;
+    font-size: xx-large;
+}
+section{
+    display:flex;
+    display:-webkit-flex;
+}
+article{
+    /* display:flex; */
+    -webkit-flex:3;
+    flex:3;
+    background-color: grey;
+    padding:14px;
+}
+#home img{
+    display: flex;
+}
+p{
+    font-size: xx-large;
+}
+th,th{
+    border: 1px solid rgb(2, 12, 2);
+    padding: 7px;
+    text-align: center;
+}
+tr{
+    background-color:rgb(128, 112, 112);
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+#one{
+    float: left;
+    
+}
+#two{
+    float: right;
+}
+#three{
+    float: left;
+}
+#four{
+    float: right;
+}
+#five{
+    float: left;
+}
+
+}
+header{
+    margin-left: 12%;
+}
+.navbar li{
+margin-left: 10%;
+}
+h1{
+    text-align:center ;
+}
+.services li{
+    text-align: center;
+    padding-bottom: 19px;
+    float: inline-end;
+    margin-right: 12%;
+}
+li{
+    font-size: xx-large;
 }
