@@ -5,4 +5,4 @@ It links small business people with banks that offers loans at low interest rate
 ###LANGUAGE USED:
 html and css
 ####PROJECT LINK;
-https://mellisah-lisah.github.io/BIZTECH/
+ [alisa](https://mellisah-lisah.github.io/BIZTECH/)
